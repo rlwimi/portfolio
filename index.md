@@ -50,7 +50,7 @@ Custom RSS reader universal iPhone+iPad app for a collection of trade magazines 
 An Epicurious iPhone app clone visualizes a recipe database (discontinued).
 
 ### [PeopleFinders](http://www.peoplefinders.com)
-Pair of iPhone apps, covered in the [New York Times](https://gadgetwise.blogs.nytimes.com/2010/02/12/a-pocket-detective-for-daters/?_r=0), fetches data from PeopleFinders' personal information database, including Are They Really Single? (discontinued, [YouTube tour](https://www.youtube.com/watch?v=kEJ9-BIl_2o)) and [Stud or Dud](https://www.studordud.com) ([iTunes](https://itunes.apple.com/app/app/stud-or-dud/id1147292256)).
+Pair of iPhone apps, covered by the [New York Times](https://gadgetwise.blogs.nytimes.com/2010/02/12/a-pocket-detective-for-daters/?_r=0), [CNN](http://www.cnn.com/2009/TECH/11/25/dating.apps/), and [Gizmodo](http://gizmodo.com/5408878/these-two-iphone-apps-made-me--realize-that-my-love-life-sucks), fetches data from PeopleFinders' personal information database, including Are They Really Single? (discontinued, [YouTube tour](https://www.youtube.com/watch?v=kEJ9-BIl_2o)) and [Stud or Dud](https://www.studordud.com) ([iTunes](https://itunes.apple.com/app/app/stud-or-dud/id1147292256)).
 
 ## Contact
 
