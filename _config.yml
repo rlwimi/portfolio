@@ -1,0 +1,10 @@
+# Site settings
+title: Michael Pederson
+tag_text: Michael Pederson
+description: Builder and collaborator, crafting delightful iOS user experiences for 8+ years, delivering software of the highest quality available within schedule and budget constraints
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
