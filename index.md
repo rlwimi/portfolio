@@ -117,7 +117,7 @@ Led Mutual Mobile's iOS contingent in a blended Mutual Mobile/eero mobile team t
 <br>
 <a href="https://itunes.apple.com/us/app/beam-elevate-your-home/id1038439712?mt=8"><img src="resources/beam.png" width="200"/></a>
 
-### [Beam](http://www.beamforhome.com)
+### [Beam](https://mutualmobile.com/work/beam-for-ios)
 
 After developing some HomeKit expertise, and before Apple released its HomeKit app including Control Center integration with iOS 10, we saw a large gap in the market for a beautiful, functional, universal HomeKit app, so we built Beam. Beam almost certainly influenced Apple's approach to designing their iOS Home app. Beam has been discontinued.
 
